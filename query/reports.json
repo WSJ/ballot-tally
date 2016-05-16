@@ -1,0 +1,23 @@
+{
+  "test": {
+    "method": "set",
+    "default": true
+  },
+  "electionDate": {
+    "method": "set"
+  },
+  "geo": {
+    "method": "set",
+    "default": "US"
+  },
+  "format": {
+    "method": "set"
+  },
+  "type": {
+    "method": "set",
+    "default": "delegates"
+  },
+  "subtype": {
+    "method": "set"
+  }
+}

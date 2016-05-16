@@ -1,0 +1,59 @@
+{
+  "race" : {
+    "method": "add",
+    "param": "raceId",
+    "alias": "raceID"
+  },
+  "statePostal": {
+    "method": "add"
+  },
+  "officeID": {
+    "method": "add"
+  },
+  "winner": {
+    "method": "set"
+  },
+  "raceType": {
+    "method": "add",
+    "param": "raceTypeID",
+    "alias": "raceTypeID"
+  },
+  "party": {
+    "method": "add"
+  },
+  "uncontested": {
+    "method": "set",
+    "default": true
+  },
+  "national": {
+    "method": "set",
+    "default": true
+  },
+  "seatNum": {
+    "method": "set"
+  },
+  "seatName": {
+    "method": "set"
+  },
+  "test": {
+    "method": "set",
+    "default": true
+  },
+  "format": {
+    "method": "set"
+  },
+  "level": {
+    "method": "set"
+  },
+  "candidateInfo": {
+    "method": "set"
+  },
+  "setZeroCounts": {
+    "method": "set",
+    "default": true
+  },
+  "omitResults": {
+    "method": "set",
+    "default": true
+  }
+}

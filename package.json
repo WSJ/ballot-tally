@@ -1,0 +1,30 @@
+{
+  "name": "ballot-tally",
+  "version": "1.0.0",
+  "description": "Elections Results via AP Elections API 2.x",
+  "main": "index.js",
+  "scripts": {
+    "lint": "eslint *.js index.js query/*.js"
+  },
+  "keywords": [
+    "Elections",
+    "API",
+    "Elections Results",
+    "Elections API"
+  ],
+  "author": "N. Palani Kumanan",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/WSJ/ballot-tally"
+  },
+  "license": "ISC",
+  "publishConfig": {
+    "registry": "https://registry.npmjs.org"
+  },
+  "dependencies": {
+    "wrapi": "^0.1.8"
+  },
+  "devDependencies": {
+    "eslint": "^2.8.0"
+  }
+}

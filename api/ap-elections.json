@@ -1,0 +1,11 @@
+{
+	"elections": {
+		"method": "GET",
+		"path": "elections/:electionDate"
+	},
+
+	"reports": {
+		"method": "GET",
+		"path": "reports"
+	}
+}
